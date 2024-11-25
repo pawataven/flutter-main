@@ -31,7 +31,7 @@ class Myapp extends StatelessWidget {
               const SizedBox(height: 15), // เพิ่มช่องว่างระหว่างภาพ
               // ภาพจาก assets
               Image.network(
-                  'https://media.discordapp.net/attachments/988708302512865322/1309421237260390441/FB_IMG_1725244015553.jpg?ex=6741850e&is=6740338e&hm=34bd516a21527986a888838e61468df455f0bd946801ec4fa0506832a0277254&=&format=webp&width=671&height=671'),
+                  'https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/457717069_491796023478726_4356506791851283223_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=bd9a62&_nc_eui2=AeF59ZQZYRfxH3qfqNYfQ8K8-cntLoOeNC_5ye0ug540Lz_0wsYNtvAYmE5DL_I-cKK10cXvpZB6kunl8QUmJpxo&_nc_ohc=cR0HdvxZ2WgQ7kNvgGge_my&_nc_zt=23&_nc_ht=scontent-bkk1-2.xx&_nc_gid=AChfbew0MuGqpxfi7jJSKJc&oh=00_AYDW3zrjsHk50XxCgrjYA8kVIKfpKo-oaw_3XSkI2cflrg&oe=6749B2F8'),
               
               const Text("ตัวเน้นคอนเทนต์ ไม่เน้นทำประตู", //ข้อความใต้รูป
                 style: TextStyle(
